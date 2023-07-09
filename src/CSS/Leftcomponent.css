@@ -1,0 +1,21 @@
+.leftcomponent{
+    background-color: #3C4B64;
+    padding: unset;
+}
+ .avartar {
+    max-width: 100%;
+}
+.Subcategory button{
+    min-width: 100%;
+    border-radius: unset;
+    background-color: #3C4B64;
+    border: unset;
+    margin-top: 10px;
+}
+.Subcategory button:hover{
+    background-color: #fff;
+    color: #3C4B64;
+}
+.margin-right-20px{
+    margin-right: 20px !important;
+}

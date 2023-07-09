@@ -1,0 +1,45 @@
+.Rightcomponent{
+    padding-left: 20px;
+}
+.noname0{
+    color: #fff;
+    height: 100px;
+    padding:unset;
+    border: solid 5px #fff;
+    display:flex;
+    align-items: center;
+    padding-left: 30px;
+}
+.Cardcolor1{
+    background-color: #321FDB;
+    
+}
+.Cardcolor2{
+    background-color: #3399FF;
+    
+}
+.Cardcolor3{
+    background-color: #F9B116;
+}
+.Cardcolor4{
+    background-color: #E55352;
+}
+
+.task{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: unset;
+    border: solid 1px #b1b1b1;
+    position:relative;
+    padding: 10px;
+}
+.view{
+    justify-content: end;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top:0;
+    line-height: 0px;
+    border-radius: unset;
+}
+
